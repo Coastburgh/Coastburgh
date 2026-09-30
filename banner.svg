@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="253" viewBox="0 0 860 253">
+  <defs>
+    <radialGradient id="glow" cx="15%" cy="0%" r="80%">
+      <stop offset="0" stop-color="#7a2a08"/>
+      <stop offset="1" stop-color="#0d0503"/>
+    </radialGradient>
+  </defs>
+  <rect width="860" height="253" rx="24" fill="url(#glow)"/>
+  <rect x="35" y="31" width="792" height="185" rx="20" fill="none" stroke="#6b2a10"/>
+  <circle cx="96" cy="97" r="40" fill="#1a0d0a" stroke="#ff6a2b" stroke-width="3"/>
+  <text x="174" y="74" fill="#e8743b" font-family="monospace" font-size="13" font-weight="700" letter-spacing="3">@coastburgh</text>
+  <text x="174" y="122" fill="#ff6a2b" font-family="Noto Sans, Arial, sans-serif" font-size="44" font-weight="800">Eduardo F. Costa Borges</text>
+  <text x="174" y="152" fill="#e8743b" font-family="Noto Sans, Arial, sans-serif" font-size="15">Your tagline here</text>
+  <rect x="56" y="168" width="106" height="28" rx="14" fill="#1a0d0a" stroke="#6b2a10"/>
+  <text x="70" y="187" fill="#ff6a2b" font-family="Arial, sans-serif" font-size="13" font-weight="700">Python</text>
+</svg>
