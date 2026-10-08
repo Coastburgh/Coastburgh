@@ -2,7 +2,7 @@
   <tr>
   </tr>
   <tr>
-    <td rowspan="2" width="300" valign="top" align="justify">
+    <td rowspan="2" width="300" valign="middle" align="justify">
       <h4 align="center">ABOUT</h4>
       IT Management student, with coursework in software development, networking, databases, IT governance and AI.
       Previously studied Electronics Engineering, but stopped midway with the intent of eventually returning to the field.
@@ -12,7 +12,7 @@
     <td rowspan="2" width="150" align="center" valign="middle">
       <img src="assets/walking_alpha.gif" alt="Portrait">
     </td>
-    <td width="300" valign="top" align="center">
+    <td width="300" valign="middle" align="center">
       <h4>INTERESTS</h4>
       <code>electronics</code>
       <code>mathematics</code>
