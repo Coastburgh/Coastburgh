@@ -2,17 +2,17 @@
   <tr>
   </tr>
   <tr>
-    <td rowspan="2" width="300" valign="middle" align="justify">
+    <td rowspan="2" width="300" valign="top" align="justify">
       <h4 align="center">ABOUT</h4>
       IT Management student, with coursework in software development, networking, databases, IT governance and AI.
       Previously studied Electronics Engineering, but stopped midway with the intent of eventually returning to the field.
       <br><br>
       Actually more into hardware than software, but learning to code because it is a useful skill regardless.
     </td>
-    <td rowspan="2" width="150" align="center" valign="middle">
+    <td rowspan="2" width="135" align="center" valign="middle">
       <img src="assets/walking_alpha.gif" alt="Portrait">
     </td>
-    <td width="300" valign="middle" align="center">
+    <td width="300" valign="top" align="center">
       <h4>INTERESTS</h4>
       <code>electronics</code>
       <code>mathematics</code>
