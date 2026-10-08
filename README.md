@@ -23,7 +23,7 @@
       <br><br>
       <hr>
       <h4>STATUS</h4>
-      <p align="center">
+      <p align="justify">
         Lately, been playing around
         with an Arduino UNO R3 and a
         Raspberry Pi Zero, learning
