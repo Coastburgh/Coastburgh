@@ -7,7 +7,7 @@
       IT Management student, with coursework in software development, networking, databases, IT governance and AI.
       Previously studied Electronics Engineering, but stopped midway with the intent of eventually returning to the field.
       <br><br>
-      Actually more into hardware than software, but learning to code because it's a useful skill regardless.
+      Actually more into hardware than software, but learning to code because it is a useful skill regardless.
     </td>
     <td rowspan="2" width="200" align="center" valign="middle">
       <img src="assets/watch_alpha.gif" alt="Portrait">
@@ -23,10 +23,12 @@
       <br><br>
       <hr>
       <h4>STATUS</h4>
-      Lately, been playing around
-      with an Arduino UNO R3 and a
-      Raspberry Pi Zero, learning
-      Python, C# and Linux.
+      <p align="center">
+        Lately, been playing around
+        with an Arduino UNO R3 and a
+        Raspberry Pi Zero, learning
+        Python, C# and Linux.
+      </p>
     </td>
   </tr>
 </table>
