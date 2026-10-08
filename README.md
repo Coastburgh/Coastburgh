@@ -9,7 +9,7 @@
       <br><br>
       Actually more into hardware than software, but learning to code because it is a useful skill regardless.
     </td>
-    <td rowspan="2" width="200" align="center" valign="middle">
+    <td rowspan="2" width="150" align="center" valign="middle">
       <img src="assets/walking_alpha.gif" alt="Portrait">
     </td>
     <td width="300" valign="top" align="center">
