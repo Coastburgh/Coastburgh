@@ -2,7 +2,7 @@
   <tr>
   </tr>
   <tr>
-    <td rowspan="2" width="300" valign="middle" align="justify">
+    <td rowspan="2" width="300" valign="top" align="justify">
       <h4 align="center">ABOUT</h4>
       IT Management student, with coursework in software development, networking, databases, IT governance and AI.
       Previously studied Electronics Engineering, but stopped midway with the intent of eventually returning to the field.
