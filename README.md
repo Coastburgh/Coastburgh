@@ -27,7 +27,7 @@
         Lately, been playing around
         with an Arduino UNO R3 and a
         Raspberry Pi Zero, learning
-        Python, C# and Linux.
+        Python, C#, C++ and Linux.
       </p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
       Lately, been playing around
       with an Arduino UNO R3 and a
       Raspberry Pi Zero, learning
-      Python, C# and Linux.
+      Python, C#, C++ and Linux.
     </td>
   </tr>
 </table>
